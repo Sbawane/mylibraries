@@ -8,7 +8,7 @@ def sub(a,b)
 }
 def mul(a,b)
 {
-  echo "The multiplication resulto of ${a} and ${b} is ${a*b}"
+  echo "The multiplication result of ${a} and ${b} is ${a*b}"
 }
 def div(a,b)
 {
